@@ -14,7 +14,7 @@
 #include "displayapp/screens/PineTimeStyle.h"
 
 using namespace Pinetime::Applications::Screens;
-
+//this is a test
 Clock::Clock(DisplayApp* app,
              Controllers::DateTime& dateTimeController,
              Controllers::Battery& batteryController,
